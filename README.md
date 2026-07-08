@@ -42,7 +42,7 @@ Desarrollar un sistema SaaS moderno que permita administrar múltiples empresas,
 
 - Git
 - GitHub
-- Git Flow
+- Git Flow  https://git-flow-tutorial.readthedocs.io/en/feature-section-2/2-gitflow.html
 
 ---
 
